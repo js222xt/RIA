@@ -1,0 +1,17 @@
+{
+"name": "riaht2014",
+"version": "0.0.1",
+"description": "my beautiful app for the RIA-course",
+"author": "js222xt",
+"license": "ISC",
+"scripts": {
+},
+"devDependencies": {
+	"react": "0.12.0",
+	"firebase": "1.1.1" 
+}
+"repository": {
+  "type": "git",
+  "url": "git://github.com/js222xt/repository.git"
+}
+}
